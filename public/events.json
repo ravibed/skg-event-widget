@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "Event",
+      "name": "Stadtführung Bogen",
+      "description": "Historische Führung durch die Altstadt Bogen.",
+      "startDate": "2026-05-10T10:00:00",
+      "location": {
+        "@type": "Place",
+        "name": "Marktplatz Bogen",
+        "address": "Marktplatz 1, 94327 Bogen"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Bogener Frühlingsfest",
+      "description": "Traditionelles Volksfest mit regionalen Spezialitäten.",
+      "startDate": "2026-05-15T14:00:00",
+      "location": {
+        "@type": "Place",
+        "name": "Festplatz Bogen",
+        "address": "Festplatz 3, 94327 Bogen"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Wanderung Bogenberg",
+      "description": "Geführte Wanderung auf den Bogenberg mit Einkehr.",
+      "startDate": "2026-05-22T09:00:00",
+      "location": {
+        "@type": "Place",
+        "name": "Bogenberg",
+        "address": "Bogenberg, 94327 Bogen"
+      }
+    }
+  ]
+}
